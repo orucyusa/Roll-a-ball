@@ -26,4 +26,4 @@ You can play the game in sample scene in Unity.
 
 ## Screenshots
 
-![Image](https://orucyusa.github.io/Roll-a-ball/blob/main/Rollaball.png)
+![Image](https://orucyusa.github.io/Roll-a-ball/Rollaball.png)
